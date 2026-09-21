@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="assets/onion-projects-banner.png" alt="BlackRabbitZ Onion Projects" width="100%">
+
+</div>
 # 🧅 Onion Projects
 
 Eine zentrale Übersicht meiner Projekte rund um **Tor, Onion Services, private Kommunikation und datenschutzorientierte Infrastruktur**.
